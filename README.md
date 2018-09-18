@@ -1,4 +1,4 @@
-# Descartes_Institus_IPayable
+# Descartes_Institud_IPayable
 Academic exercise with Java, concepts of aggregation, inheritance and polymorphism
 
 //++++++++++++++++++++++++++++++++++++++++bus
